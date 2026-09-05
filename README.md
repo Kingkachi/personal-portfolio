@@ -19,4 +19,4 @@ This is my personal portfolio website created for CS 3365 Software Engineering.
 
 ## Viewing the Project
 
-The portfolio can be viewed through GitHub Pages.
+The portfolio can be viewed through the GitHub Pages link: https://kingkachi.github.io/personal-portfolio/
