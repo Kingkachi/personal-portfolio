@@ -22,3 +22,12 @@ section {
 section h2 {
     margin-bottom: 15px;
 }
+
+#skills ul {
+    list-style-type: square;
+    padding-left: 25px;
+}
+
+#skills li {
+    margin-bottom: 10px;
+}
