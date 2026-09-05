@@ -31,3 +31,14 @@ section h2 {
 #skills li {
     margin-bottom: 10px;
 }
+
+.project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.project h3 {
+    margin-top: 0;
+}
